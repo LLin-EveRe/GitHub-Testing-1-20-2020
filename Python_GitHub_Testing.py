@@ -20,4 +20,4 @@ if input2 == "rainy":
 else:
     print("yay! that's awesome")
     
-print("blah")
+print("Here's the changes you wanted")
